@@ -1,0 +1,13 @@
+C:\Users\shivam01\source\repos\sampleapp2\sampleapp2\bin\Debug\netcoreapp3.1\sampleapp2.exe
+C:\Users\shivam01\source\repos\sampleapp2\sampleapp2\bin\Debug\netcoreapp3.1\sampleapp2.deps.json
+C:\Users\shivam01\source\repos\sampleapp2\sampleapp2\bin\Debug\netcoreapp3.1\sampleapp2.runtimeconfig.json
+C:\Users\shivam01\source\repos\sampleapp2\sampleapp2\bin\Debug\netcoreapp3.1\sampleapp2.runtimeconfig.dev.json
+C:\Users\shivam01\source\repos\sampleapp2\sampleapp2\bin\Debug\netcoreapp3.1\sampleapp2.dll
+C:\Users\shivam01\source\repos\sampleapp2\sampleapp2\bin\Debug\netcoreapp3.1\sampleapp2.pdb
+C:\Users\shivam01\source\repos\sampleapp2\sampleapp2\obj\Debug\netcoreapp3.1\sampleapp2.vbprojAssemblyReference.cache
+C:\Users\shivam01\source\repos\sampleapp2\sampleapp2\obj\Debug\netcoreapp3.1\sampleapp2.AssemblyInfoInputs.cache
+C:\Users\shivam01\source\repos\sampleapp2\sampleapp2\obj\Debug\netcoreapp3.1\sampleapp2.AssemblyInfo.vb
+C:\Users\shivam01\source\repos\sampleapp2\sampleapp2\obj\Debug\netcoreapp3.1\sampleapp2.vbproj.CoreCompileInputs.cache
+C:\Users\shivam01\source\repos\sampleapp2\sampleapp2\obj\Debug\netcoreapp3.1\sampleapp2.dll
+C:\Users\shivam01\source\repos\sampleapp2\sampleapp2\obj\Debug\netcoreapp3.1\sampleapp2.pdb
+C:\Users\shivam01\source\repos\sampleapp2\sampleapp2\obj\Debug\netcoreapp3.1\sampleapp2.genruntimeconfig.cache
